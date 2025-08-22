@@ -6,5 +6,11 @@
 
     
 🔹 Key Features:
-    Interpreted
-    Interpreted
+    Interpreted,
+    Object-Oriented,
+    Dynamically Typed,
+    Cross-Platform.
+
+
+SIMPLE CODE OF PYTHON:
+print('Hello, world!')
