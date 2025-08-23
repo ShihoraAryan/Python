@@ -12,7 +12,7 @@
     Cross-Platform.
 
 
-SIMPLE CODE OF PYTHON:Sum Of Two Numbers
+SIMPLE CODE OF PYTHON:  Sum Of Two Numbers
 
 
     first_number = int(input("Enter first number: "))
